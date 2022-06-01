@@ -1,4 +1,4 @@
-# C867_ClassRoster
+# CppClassRoster
 Final C++ project for C867 Scripting and Programming Application. 
 
 A C++ project that runs on the console that parses through several pre-created students and  
